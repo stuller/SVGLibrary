@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+        "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="300px" height="350px"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <path d="M45,75
+             Q30,-15 100,30
+             Q145,15 190,30
+             Q275,-25 250,75
+             Q280,130 247,175
+             Q215,207 150,205
+             Q80,200 56,175
+             Q12,130 54,67"
+          stroke="#000000" fill="transparent" stroke-width="10" stroke-linecap="round"/>
+    <path d="m190,65
+            Q148,83 143,49
+            Q145,22 161,9
+            Q185,-5  204,39
+            Q195,50 216,51
+            Q240,35 255,47
+            Q270,67 250,88
+            Q225,115 205,77
+            Q187,62 187,62"
+          stroke="black" fill="red" stroke-width="10" stroke-linecap="round"/>
+    <path d="m4,131
+            Q45,127 51,129"
+          stroke="#000000" fill="transparent" stroke-width="8" stroke-linecap="round"/>
+    <path d="m21,158
+            Q44,150 51,150"
+          stroke="#000000" fill="transparent" stroke-width="8" stroke-linecap="round"/>
+    <path d="m29,190
+            Q64,166 66,168"
+          stroke="#000000" fill="transparent" stroke-width="8" stroke-linecap="round"/>
+    <path d="m247,122
+            Q291,116 291,118"
+          stroke="#000000" fill="transparent" stroke-width="8" stroke-linecap="round"/>
+    <path d="m249,144
+            Q283,147 283,149"
+          stroke="#000000" fill="transparent" stroke-width="8" stroke-linecap="round"/>
+    <path d="m241,164
+            Q273,178 273,179"
+          stroke="#000000" fill="transparent" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="91" cy="139" rx="7" ry="10"
+             stroke="#000000" fill="#000000" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="209" cy="139" rx="7" ry="10"
+             stroke="#000000" fill="#000000" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="152" cy="158" rx="10" ry="7"
+             stroke="#000000" fill="yellow" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="185" cy="48" r="10" stroke="black" stroke-width="8" fill="red" />
+    <circle cx="224" cy="68" r="10" stroke="black" stroke-width="8" fill="red" />
+    <circle cx="204" cy="60" r="20" stroke="black" stroke-width="8" fill="red" />
+
+
+
+
+
+
+
+
+</svg>
